@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/csPaths/bin/Debug/netcoreapp2.1/csPaths.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csPaths/bin/Debug/netcoreapp2.1/csPaths.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csPaths/bin/Debug/netcoreapp2.1/csPaths.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csPaths/bin/Debug/netcoreapp2.1/csPaths.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csPaths/bin/Debug/netcoreapp2.1/csPaths.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/csPaths/obj/Debug/netcoreapp2.1/csPaths.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csPaths/obj/Debug/netcoreapp2.1/csPaths.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csPaths/obj/Debug/netcoreapp2.1/csPaths.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csPaths/obj/Debug/netcoreapp2.1/csPaths.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/csPaths/obj/Debug/netcoreapp2.1/csPaths.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csPaths/obj/Debug/netcoreapp2.1/csPaths.pdb
