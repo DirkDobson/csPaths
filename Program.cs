@@ -7,7 +7,7 @@ namespace csPaths
     {
         static void Main(string[] args)
         {
-            var path = @":\Projects/CSharpFundamentals\HellowWorld\HellowWorld.sln";
+            var path = @":\Projects\CSharpFundamentals\HellowWorld\HellowWorld.sln";
 
             var dotIndex = path.IndexOf('.');
             var extension = path.Substring(dotIndex);
